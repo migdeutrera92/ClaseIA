@@ -1,4 +1,4 @@
-const REGISTRATION_ENDPOINT_URL = "PEGA_AQUI_TU_ENDPOINT";
+const REGISTRATION_ENDPOINT_URL = "https://hook.us2.make.com/linfho6oqefvf73nvkvunomu6g9unewi";
 
 const form = document.getElementById("leadForm");
 const submitBtn = document.getElementById("submitBtn");
