@@ -77,3 +77,9 @@ por tu endpoint real.
 - Se cambió el título principal del hero por:
   “IA y automatización para pymes: menos tareas manuales, más tiempo para crecer”.
 - Se ajustó el subtítulo para que suene más claro, práctico y persuasivo.
+
+
+## Corrección V9
+- Se actualizó el hook principal por:
+  “Descubre qué tareas de tu pyme puedes simplificar con IA y automatización”.
+- Se ajustó el subtítulo para acompañar mejor el enfoque de detección de oportunidades.
